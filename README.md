@@ -1,6 +1,6 @@
 # how to merge cells in excel
 
-[![how to merge cells in excel](gett-stateed.png)](https://github.com/softwaretestinghel/how.to.merge.cells.in.excel/)
+[![how to merge cells in excel](gett-stateed.png)](https://icncomputer.com/how-to-merge-cells-in-excel/)
 
 * Open your Excel document. 
 * Double-click an Excel document to open it in Excel. If you haven't yet created the document, open the Excel program and click.
